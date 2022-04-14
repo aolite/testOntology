@@ -1,2 +1,0 @@
-# testOntology
-test Ontology
